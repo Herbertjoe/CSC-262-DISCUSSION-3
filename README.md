@@ -1,0 +1,2 @@
+# CSC-262-DISCUSSION-3
+CSC262 DISCUSSION3 Difference Arrays, Array Lists
